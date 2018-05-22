@@ -26,7 +26,10 @@
 ./Arthur Conan Doyle/The Valley of Fear (290)/cover.jpg
 ./Audrey Niffenegger/The Time Traveler's Wife (368)/cover.jpg
 ./Basil Howlett/1966 and All That_ An Evangelical J (433)/cover.jpg
+./Brandon Sanderson/Mistborn_ Secret History (439)/cover.jpg
+./Brandon Sanderson/Shadows of Self (437)/cover.jpg
 ./Brandon Sanderson/The Alloy of Law (434)/cover.jpg
+./Brandon Sanderson/The Bands of Mourning (438)/cover.jpg
 ./Brandon Sanderson/The Final Empire (211)/cover.jpg
 ./Brandon Sanderson/The Hero of Ages (419)/cover.jpg
 ./Brandon Sanderson/The Well of Ascension (418)/cover.jpg
@@ -47,6 +50,7 @@
 ./Cinda Williams Chima/Exiled Queen (422)/cover.jpg
 ./Cinda Williams Chima/Gray Wolf Throne (423)/cover.jpg
 ./Cinda Williams Chima/The Crimson Crown (421)/cover.jpg
+./Clifford Stoll/The Cuckoo's Egg (436)/cover.jpg
 ./Dan Brown/Angels & Demons (218)/cover.jpg
 ./Dan Brown/Deception Point (217)/cover.jpg
 ./Dan Brown/Digital Fortress (220)/cover.jpg
@@ -178,6 +182,7 @@
 ./John le Carre/Tinker, Tailor, Soldier, Spy (383)/cover.jpg
 ./John Piper/Desiring God (153)/cover.jpg
 ./Kevin Mitnick/Ghost in the Wires (415)/cover.jpg
+./Kim Zetter/Countdown to Zero Day (440)/cover.jpg
 ./Lee Strobel/The Case for Christ (365)/cover.jpg
 ./Lemony Snicket/The Austere Academy (339)/cover.jpg
 ./Lemony Snicket/The Bad Beginning (335)/cover.jpg
