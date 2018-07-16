@@ -202,6 +202,7 @@
 ./Michael Lewis/The Big Short_ Inside the Doomsday (416)/cover.jpg
 ./Neil Gaiman/American Gods (331)/cover.jpg
 ./Neil Gaiman/Coraline (369)/cover.jpg
+./Neil Gaiman/Norse Mythology (441)/cover.jpg
 ./Neil Gaiman/Stardust (299)/cover.jpg
 ./Orson Scott Card/Children of the Mind (353)/cover.jpg
 ./Orson Scott Card/Ender's Game (208)/cover.jpg
