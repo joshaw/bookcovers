@@ -2,16 +2,10 @@
 
 BOOKSDIR=${1:-../ebooks/docs/ebooks/}
 (
-	cd $BOOKSDIR || exit;
-	find . -name 'cover.*'
-) > list.tmp
+	cd $BOOKSDIR > /dev/null 2>&1 || exit;
+	find . -type f -name 'cover.*'
+) > list.txt
 
-if ! cmp -s list.txt list.tmp; then
-	mv list.tmp list.txt
-	mkdir -p covers
-	rsync -P --files-from=list.txt $BOOKSDIR covers/
-	echo "Updated"
-else
-	rm list.tmp
-	echo "No change"
-fi
+mkdir -p covers
+rsync -i --size-only --files-from=list.txt $BOOKSDIR covers/
+echo "Updated"

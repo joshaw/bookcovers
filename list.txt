@@ -224,6 +224,7 @@
 ./Philip Pullman/Once Upon a Time in the North (322)/cover.jpg
 ./Philip Pullman/The Amber Spyglass (253)/cover.jpg
 ./Philip Pullman/The Ruby in the Smoke (324)/cover.jpg
+./Philip Pullman/The Secret Commonwealth (442)/cover.jpg
 ./Philip Pullman/The Shadow in the North (325)/cover.jpg
 ./Philip Pullman/The Subtle Knife (254)/cover.jpg
 ./Philip Pullman/Tiger in the Well (326)/cover.jpg
