@@ -217,6 +217,7 @@
 ./Patrick Rothfuss/The Slow Regard of Silent Things (417)/cover.jpg
 ./Patrick Rothfuss/The Wise Man's Fear (361)/cover.jpg
 ./Paula Hawkins/The Girl on the Train (409)/cover.jpg
+./Phil Knight/Shoe Dog_ A Memoir by the Creator o (445)/cover.jpg
 ./Philip K. Dick/Do Androids Dream of Electric Sheep (427)/cover.jpg
 ./Philip Pullman/La Belle Sauvage (431)/cover.jpg
 ./Philip Pullman/Lyra's Oxford (154)/cover.jpg
@@ -224,7 +225,6 @@
 ./Philip Pullman/Once Upon a Time in the North (322)/cover.jpg
 ./Philip Pullman/The Amber Spyglass (253)/cover.jpg
 ./Philip Pullman/The Ruby in the Smoke (324)/cover.jpg
-./Philip Pullman/The Secret Commonwealth (442)/cover.jpg
 ./Philip Pullman/The Shadow in the North (325)/cover.jpg
 ./Philip Pullman/The Subtle Knife (254)/cover.jpg
 ./Philip Pullman/Tiger in the Well (326)/cover.jpg
@@ -293,4 +293,5 @@
 ./Terry Pratchett/Witches abroad (139)/cover.jpg
 ./Terry Pratchett/Wyrd Sisters (145)/cover.jpg
 ./Tim Moore/French Revolutions_ Cycling the Tou (149)/cover.jpg
+./Timothy Keller/The Meaning of Marriage (444)/cover.jpg
 ./William P. Young/The Shack (262)/cover.jpg
