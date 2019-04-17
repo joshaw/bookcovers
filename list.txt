@@ -26,6 +26,7 @@
 ./Arthur Conan Doyle/The Valley of Fear (290)/cover.jpg
 ./Audrey Niffenegger/The Time Traveler's Wife (368)/cover.jpg
 ./Basil Howlett/1966 and All That_ An Evangelical J (433)/cover.jpg
+./Bill Bryson/A Short History of Nearly Everythin (446)/cover.jpg
 ./Brandon Sanderson/Mistborn_ Secret History (439)/cover.jpg
 ./Brandon Sanderson/Shadows of Self (437)/cover.jpg
 ./Brandon Sanderson/The Alloy of Law (434)/cover.jpg
@@ -107,12 +108,15 @@
 ./Garth Nix/The Fall (36)/cover.jpg
 ./Garth Nix/The Violet Keystone (41)/cover.jpg
 ./Garth Nix/Troubletwisters (35)/cover.jpg
+./George Mahood/Free Country_ A Penniless Adventure (453)/cover.jpg
 ./George Orwell/1984 (314)/cover.jpg
 ./Grant Naylor/Better Than Life (250)/cover.jpg
 ./Grant Naylor/Red Dwarf_ Infinity Welcomes Carefu (251)/cover.jpg
 ./Guy Lawson/Arms and the Dudes (407)/cover.jpg
-./H.G. Wells/The Invisible Man (304)/cover.jpg
-./H.G. Wells/The Time Machine (310)/cover.jpg
+./H. G. Wells/The Invisible Man (304)/cover.jpg
+./H. G. Wells/The Time Machine (310)/cover.jpg
+./H. G. Wells/The War of the Worlds (457)/cover.jpg
+./Herman Melville/Moby Dick (451)/cover.jpg
 ./Ian Fleming/Casino Royale (236)/cover.jpg
 ./Ian Fleming/Diamonds Are Forever (241)/cover.jpg
 ./Ian Fleming/Doctor No (233)/cover.jpg
@@ -145,18 +149,20 @@
 ./Isaac Asimov/The Naked Sun (78)/cover.jpg
 ./Isaac Asimov/The Robots of Dawn (80)/cover.jpg
 ./Isaac Asimov/The Stars, Like Dust (79)/cover.jpg
-./J.K. Rowling/Fantastic Beasts and Where to Find (435)/cover.jpg
-./J.K. Rowling/Harry Potter and the Chamber of Sec (261)/cover.jpg
-./J.K. Rowling/Harry Potter and the Deathly Hallow (258)/cover.jpg
-./J.K. Rowling/Harry Potter and the Goblet of Fire (255)/cover.jpg
-./J.K. Rowling/Harry Potter and the Half-Blood Pri (259)/cover.jpg
-./J.K. Rowling/Harry Potter and the Order of the P (257)/cover.jpg
-./J.K. Rowling/Harry Potter and the Philosopher's (256)/cover.jpg
-./J.K. Rowling/Harry Potter and the Prisoner of Az (260)/cover.jpg
+./J. K. Rowling/Fantastic Beasts and Where to Find (435)/cover.jpg
+./J. K. Rowling/Harry Potter and the Chamber of Sec (261)/cover.jpg
+./J. K. Rowling/Harry Potter and the Deathly Hallow (258)/cover.jpg
+./J. K. Rowling/Harry Potter and the Goblet of Fire (255)/cover.jpg
+./J. K. Rowling/Harry Potter and the Half-Blood Pri (259)/cover.jpg
+./J. K. Rowling/Harry Potter and the Order of the P (257)/cover.jpg
+./J. K. Rowling/Harry Potter and the Philosopher's (256)/cover.jpg
+./J. K. Rowling/Harry Potter and the Prisoner of Az (260)/cover.jpg
 ./J.R.R. Tolkien/The Fellowship of the Ring (272)/cover.jpg
 ./J.R.R. Tolkien/The Hobbit (414)/cover.jpg
 ./J.R.R. Tolkien/The Return of the King (279)/cover.jpg
 ./J.R.R. Tolkien/The Two Towers (278)/cover.jpg
+./Jeff Wheeler/Storm Glass (450)/cover.jpg
+./Johanna Spyri/Heidi (458)/cover.jpg
 ./John Bunyan/The Pilgrim's Progress (301)/cover.jpg
 ./John Green/Looking for Alaska (313)/cover.jpg
 ./John Green/The Fault in Our Stars (296)/cover.jpg
@@ -181,6 +187,8 @@
 ./John le Carre/The Tailor of Panama (384)/cover.jpg
 ./John le Carre/Tinker, Tailor, Soldier, Spy (383)/cover.jpg
 ./John Piper/Desiring God (153)/cover.jpg
+./Keith A Pearson/Meeting Mungo Thunk (452)/cover.jpg
+./Kenneth Grahame/The Wind in the Willows (454)/cover.jpg
 ./Kevin Mitnick/Ghost in the Wires (415)/cover.jpg
 ./Kim Zetter/Countdown to Zero Day (440)/cover.jpg
 ./Lee Strobel/The Case for Christ (365)/cover.jpg
@@ -217,6 +225,7 @@
 ./Patrick Rothfuss/The Slow Regard of Silent Things (417)/cover.jpg
 ./Patrick Rothfuss/The Wise Man's Fear (361)/cover.jpg
 ./Paula Hawkins/The Girl on the Train (409)/cover.jpg
+./Phil Knight/Shoe Dog_ A Memoir by the Creator o (445)/cover.jpg
 ./Philip K. Dick/Do Androids Dream of Electric Sheep (427)/cover.jpg
 ./Philip Pullman/La Belle Sauvage (431)/cover.jpg
 ./Philip Pullman/Lyra's Oxford (154)/cover.jpg
@@ -224,7 +233,6 @@
 ./Philip Pullman/Once Upon a Time in the North (322)/cover.jpg
 ./Philip Pullman/The Amber Spyglass (253)/cover.jpg
 ./Philip Pullman/The Ruby in the Smoke (324)/cover.jpg
-./Philip Pullman/The Secret Commonwealth (442)/cover.jpg
 ./Philip Pullman/The Shadow in the North (325)/cover.jpg
 ./Philip Pullman/The Subtle Knife (254)/cover.jpg
 ./Philip Pullman/Tiger in the Well (326)/cover.jpg
@@ -293,4 +301,6 @@
 ./Terry Pratchett/Witches abroad (139)/cover.jpg
 ./Terry Pratchett/Wyrd Sisters (145)/cover.jpg
 ./Tim Moore/French Revolutions_ Cycling the Tou (149)/cover.jpg
+./Timothy Keller/The Meaning of Marriage (444)/cover.jpg
 ./William P. Young/The Shack (262)/cover.jpg
+./William Shakespeare/Romeo and Juliet (455)/cover.jpg
